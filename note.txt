@@ -1,0 +1,2 @@
+set FLASK_APP=stream_hum_counter_v1.py
+flask run --host=0.0.0.0
