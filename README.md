@@ -1,4 +1,4 @@
-# 基于多摄像头协同分析的单目标跟踪算法/系统
+# 多摄像头目标跟踪算法/系统
 # Multiple-camera-single-target-tracking
 ---
 
